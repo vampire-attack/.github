@@ -54,11 +54,9 @@ VAMPIRE ATTACK is currently in active development. Join us in shaping the future
 
 We welcome blood donors... err, contributors! Whether you're a developer, designer, or DeFi enthusiast, there's a place for you in the VAMPIRE ATTACK ecosystem.
 
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.
-
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## 🔗 Links
 
